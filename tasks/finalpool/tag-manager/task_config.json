@@ -1,0 +1,1 @@
+{"task": "tag-manager", "status": "implemented", "implementor": "gyy", "source": {"branch": "gyy", "folder": "gyy", "path": "tasks/gyy/tag-manager"}, "needed_mcp_servers": ["github", "notion"], "needed_local_tools": ["claim_done"], "notes": "Implemented task collected into final pool; satisfies docs requirements in tasks/examples."}
