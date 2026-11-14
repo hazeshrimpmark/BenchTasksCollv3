@@ -1,0 +1,1 @@
+{"task": "booking-system", "status": "implemented", "implementor": "junteng_dev", "source": {"branch": "junteng_dev", "folder": "junteng", "path": "tasks/junteng/booking-system"}, "needed_mcp_servers": ["github", "notion"], "needed_local_tools": ["claim_done"], "notes": "Implemented task collected into final pool; satisfies docs requirements in tasks/examples."}
