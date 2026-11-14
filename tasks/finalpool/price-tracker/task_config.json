@@ -1,0 +1,1 @@
+{"task": "price-tracker", "status": "implemented", "implementor": "fan-dev", "source": {"branch": "fan-dev", "folder": "fan", "path": "tasks/fan/price-tracker"}, "needed_mcp_servers": ["github", "notion"], "needed_local_tools": ["claim_done"], "notes": "Implemented task collected into final pool; satisfies docs requirements in tasks/examples."}
