@@ -1,0 +1,1 @@
+{"task": "client-portal", "status": "implemented", "implementor": "lueyang-dev", "source": {"branch": "lueyang-dev", "folder": "lueyang", "path": "tasks/lueyang/client-portal"}, "needed_mcp_servers": ["github", "notion"], "needed_local_tools": ["claim_done"], "notes": "Implemented task collected into final pool; satisfies docs requirements in tasks/examples."}

@@ -1,0 +1,1 @@
+{"task": "content-manager", "status": "implemented", "implementor": "yuxuan-dev", "source": {"branch": "yuxuan-dev", "folder": "yuxuan", "path": "tasks/yuxuan/content-manager"}, "needed_mcp_servers": ["github", "notion"], "needed_local_tools": ["claim_done"], "notes": "Implemented task collected into final pool; satisfies docs requirements in tasks/examples."}
