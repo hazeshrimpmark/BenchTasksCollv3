@@ -1,0 +1,1 @@
+{"task": "currency-converter", "status": "implemented", "implementor": "junxian_dev", "source": {"branch": "junxian_dev", "folder": "junxian", "path": "tasks/junxian/currency-converter"}, "needed_mcp_servers": ["github", "notion"], "needed_local_tools": ["claim_done"], "notes": "Implemented task collected into final pool; satisfies docs requirements in tasks/examples."}
