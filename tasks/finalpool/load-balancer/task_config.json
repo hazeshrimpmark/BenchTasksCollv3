@@ -1,0 +1,1 @@
+{"task": "load-balancer", "status": "implemented", "implementor": "zhaochen", "source": {"branch": "zhaochen", "folder": "zhaochen", "path": "tasks/zhaochen/load-balancer"}, "needed_mcp_servers": ["github", "notion"], "needed_local_tools": ["claim_done"], "notes": "Implemented task collected into final pool; satisfies docs requirements in tasks/examples."}
